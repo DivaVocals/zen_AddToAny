@@ -1,7 +1,4 @@
 /* Begin AddToAny */
-/*a.a2a_button_pinterest_pin, a.a2a_button_google_plusone, a.a2a_dd {
-    margin-left: -30px;
-}*/
 
 /*The Facebook Like Button with 'show count' enabled is 90 pixels. You can change the width using CSS code, for instance: */
 .a2a_button_facebook_like { width:20% !important; min-width:80px !important; }
