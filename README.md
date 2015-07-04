@@ -7,7 +7,10 @@ AddToAny for Zen Cart. AddToAny is the ORIGINAL sharing platform service. It is 
 This module is a simple implementation of AddToAny. Using the customization guide you can do a lot more with the AddToAny API.. Eventually I will build out an admin configuration menu and provide more customization options (including vertical sharing buttons) from within the Zen Cart admin
 
 # To Install
-Unzip the file. Re-name the *templates/YOUR_TEMPLATE* to match the name of your template. Copy the contents of the *zen_AddToAny* folder to your store (repeat copy the CONTENTS of the *zen_AddToAny* folder -- do NOT copy the *zen_AddToAny* folder to your store) . If you have a custom tpl_product_info_display.php file, merge the /includes/templates/YOUR_TEMPLATE/templates/tpl_product_info_display.php file with the one in your template.
+* Unzip the file. 
+* Re-name the **templates/YOUR_TEMPLATE** to match the name of your template. 
+* Copy the contents of the **zen_AddToAny** folder to your store (repeat copy the CONTENTS of the **zen_AddToAny** folder -- do NOT copy the **zen_AddToAny** folder to your store).
+* If you have a custom tpl_product_info_display.php file, merge the /includes/templates/YOUR_TEMPLATE/templates/tpl_product_info_display.php file with the one in your template.
 
 THAT'S IT!!!
 ---------------------------------------
